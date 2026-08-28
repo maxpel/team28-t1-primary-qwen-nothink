@@ -1,0 +1,51 @@
+{
+  "team_id": "team_28",
+  "team_name": "RAG team silicon sample study",
+  "contact": "max.pellert@bsc.es",
+  "creators": [
+    {
+      "name": "Adeeba, Farah",
+      "affiliation": "University of Konstanz",
+      "orcid": "0009-0001-1740-8657"
+    },
+    {
+      "name": "Ma, Jing",
+      "affiliation": "University of Konstanz",
+      "orcid": "0009-0007-8951-9819"
+    },
+    {
+      "name": "Ferreira Goncalves, Marcia",
+      "affiliation": "Graphwise",
+      "orcid": "0000-0002-5152-9954"
+    },
+    {
+      "name": "Pellert, Max",
+      "affiliation": "Barcelona Supercomputing Center",
+      "orcid": "0000-0002-6557-7607"
+    }
+  ],
+  "abstract": "",
+  "license": "CC-BY-4.0",
+  "tier": 1,
+  "entry": "primary",
+  "approach_family": "per-respondent simulation, single model",
+  "models": [
+    "qwen3.6-27B"
+  ],
+  "code_repository": "https://github.com/maxpel/team28-t1-primary-qwen-nothink",
+  "code_doi": null,
+  "disclosure_class": "A",
+  "escrow_doi": null,
+  "zenodo_doi": null,
+  "prediction_files": [
+    {
+      "file": "predictions/team_28_T1_primary_v1.csv",
+      "sha256": "ad3c4f693744f01e88048777775aeed74bc25ab02d81bc6e2ad200ee791f377d"
+    }
+  ],
+  "coverage": {
+    "interventions": 16,
+    "outcomes": 13
+  },
+  "blinding_attestation": true
+}
