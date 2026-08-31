@@ -33,10 +33,10 @@
     "qwen3.6-27B"
   ],
   "code_repository": "https://github.com/maxpel/team28-t1-primary-qwen-nothink",
-  "code_doi": null,
+  "code_doi": "https://doi.org/10.5281/zenodo.22211467",
   "disclosure_class": "A",
   "escrow_doi": null,
-  "zenodo_doi": null,
+  "zenodo_doi": "https://doi.org/10.5281/zenodo.22211467",
   "prediction_files": [
     {
       "file": "predictions/team_28_T1_primary_v1.csv",
