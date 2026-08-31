@@ -16,7 +16,7 @@
     {
       "name": "Ferreira Goncalves, Marcia",
       "affiliation": "Graphwise",
-      "orcid": "0000-0002-5152-9954"
+      "orcid": "0000-0001-5337-4637"
     },
     {
       "name": "Pellert, Max",
@@ -24,7 +24,7 @@
       "orcid": "0000-0002-6557-7607"
     }
   ],
-  "abstract": "",
+  "abstract": "We simulate individual survey respondents for the Silicon Sample Benchmark's target study by prompting Qwen3.6-27B (thinking disabled) to complete the full 43-item survey instrument in character as a demographically specified persona drawn from the U.S. General Social Survey. Each of 9,912 personas is assigned to one of the study's 17 conditions (16 interventions plus control), with 10 independent completions generated per persona and averaged into a single submitted response. This entry covers all 16 preregistered interventions and all 13 outcomes, and submits raw, uncalibrated model output; no post-hoc correction is applied to the treatment effect estimates.",
   "license": "CC-BY-4.0",
   "tier": 1,
   "entry": "primary",

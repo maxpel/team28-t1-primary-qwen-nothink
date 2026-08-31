@@ -19,7 +19,7 @@
     {
       "name": "Ferreira Goncalves, Marcia",
       "affiliation": "Graphwise",
-      "orcid": "0000-0002-5152-9954"
+      "orcid": "0000-0001-5337-4637"
     },
     {
       "name": "Pellert, Max",
@@ -27,7 +27,7 @@
       "orcid": "0000-0002-6557-7607"
     }
   ],
-  "description": "<p>Tier&nbsp;1 (individual simulation) submission to the <a href=\"https://janpfander.github.io/llm_predictions_megastudy/\">Silicon Sample Benchmark<\/a> (team <code>team_28<\/code>).<\/p><p>Approach family: per-respondent simulation, single model. Model(s): qwen3.6-27B. Coverage: 16 interventions &times; 13 preregistered outcomes.<\/p><p>This record archives the prediction file(s), generation code, and method registration form.<\/p>",
+  "description": "<p>We simulate individual survey respondents for the Silicon Sample Benchmark's target study by prompting Qwen3.6-27B (thinking disabled) to complete the full 43-item survey instrument in character as a demographically specified persona drawn from the U.S. General Social Survey. Each of 9,912 personas is assigned to one of the study's 17 conditions (16 interventions plus control), with 10 independent completions generated per persona and averaged into a single submitted response. This entry covers all 16 preregistered interventions and all 13 outcomes, and submits raw, uncalibrated model output; no post-hoc correction is applied to the treatment effect estimates.<\/p>",
   "keywords": [
     "Silicon Sample Benchmark",
     "silicon sampling",

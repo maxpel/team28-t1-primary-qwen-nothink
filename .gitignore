@@ -9,3 +9,4 @@ maintainer/
 .RData
 .Rproj.user/
 .DS_Store
+raw_data_deposit/run_target_qwen36_27b_nothink_raw_text.csv
